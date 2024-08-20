@@ -1,4 +1,4 @@
-Hi, I'm Max! 👋
+<h3 align="left">Hi, I'm Max! 👋</h3>
 
 I'm a passionate Java developer from Vienna</h1>
 <h3 align="center"></h3>
