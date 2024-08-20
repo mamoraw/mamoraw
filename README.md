@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">I'm a passionate Java developer from Vienna</h3>
+<h2 align="center">Hi 👋, I'm Max, 
+a passionate Java developer from Vienna</h1>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on **Practice projects with SpringBoot**
 
