@@ -10,7 +10,7 @@ I'm a passionate Java developer from Vienna</h1>
 <h3 align="left">Get in Touch</h3>
 <p align="left">
 via LinkedIn
-<a href="https://linkedin.com/in/linkedin.com/in/maximilian-morawitz-b36287324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maximilian-morawitz-b36287324" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/maximilian-morawitz-b36287324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maximilian-morawitz-b36287324" height="24" width="32" /></a>
 </p> or you can write me 📬 morawitz.m@gmail.com
 
 <h3 align="left">Tech Stack</h3>
