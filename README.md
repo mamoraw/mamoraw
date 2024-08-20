@@ -9,6 +9,7 @@ I'm a passionate Java developer from Vienna</h1>
 <h3 align="left">Get in Touch</h3>
 📬 morawitz.m@gmail.com
 <p align="left">
+  You can write me 📬 morawitz.m@gmail.com or connect via LinkedIn
 <a href="https://linkedin.com/in/linkedin.com/in/maximilian-morawitz-b36287324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maximilian-morawitz-b36287324" height="30" width="40" /></a>
 </p>
 
