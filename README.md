@@ -5,6 +5,8 @@ I'm a passionate Java developer from Vienna</h1>
 
 🔭 I'm currently working on some Java Web-Applications using Sprin Boot, MongoDB and MySQL.
 
+🚀 My repositories reflect my programming journey, from my very first steps to where I am now.
+
 <h3 align="left">Get in Touch</h3>
 <p align="left">
 via LinkedIn
