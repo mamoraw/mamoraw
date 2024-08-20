@@ -3,8 +3,7 @@
 I'm a passionate Java developer from Vienna</h1>
 <h3 align="center"></h3>
 
-- 🔭 I'm currently working on some Java Web-Applications using Sprin Boot, MongoDB and MySQL.
-
+🔭 I'm currently working on some Java Web-Applications using Sprin Boot, MongoDB and MySQL.
 
 <h3 align="left">Get in Touch</h3>
 <p align="left">
