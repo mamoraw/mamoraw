@@ -2,7 +2,7 @@
 
 🧑‍💻 I'm a passionate Java developer from Vienna.
 
-🔭 I'm currently working on some Java Web-Applications using Sprin Boot, MongoDB and MySQL.
+🔭 I'm currently working on some Java Web-Applications using Spring Boot, MongoDB and MySQL.
 
 🚀 My repositories reflect my programming journey, from my very first steps to where I am now.
 
