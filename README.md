@@ -1,7 +1,6 @@
 # Hi, I'm Max! 👋
 
-I'm a passionate Java developer from Vienna</h1>
-<h3 align="center"></h3>
+🧑‍💻 I'm a passionate Java developer from Vienna.
 
 🔭 I'm currently working on some Java Web-Applications using Sprin Boot, MongoDB and MySQL.
 
