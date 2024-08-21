@@ -6,7 +6,7 @@
 
 🚀 My repositories reflect my programming journey, from my very first steps to where I am now.
 
-<h3 align="left">Get in Touch</h3>
+## Get in Touch
 <p align="left">
 via LinkedIn
 <a href="https://linkedin.com/in/maximilian-morawitz-b36287324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maximilian-morawitz-b36287324" height="18" width="24" /></a>
