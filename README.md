@@ -1,6 +1,6 @@
 # Hi, I'm Max! 👋
 
-I am an analytical and logical-thinking programmer who loves learning new things. 
+I am an analytical and logical-thinking Software Developer who loves learning new things. 
 
 Currently, I am working on various projects focused on the design and implementation of RESTful APIs in conjunction with SQL databases. 
 
