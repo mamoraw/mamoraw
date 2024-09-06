@@ -14,6 +14,10 @@ My repositories reflect my programming journey, from my very first steps to wher
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-morawitz-b36287324) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morawitz.m@gmail.com)
 
+<p align="left">
+<a href="https://linkedin.com/in/maximilian-morawitz-b36287324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maximilian-morawitz-b36287324" height="18" width="24" /></a>
+morawitz.m@gmail.com
+
 ## ✨ Interests
 - 📖 Reading
 - 🎮 Gaming
